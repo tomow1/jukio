@@ -1,0 +1,4 @@
+# requirements.in
+Flask
+python-mpd
+pylast
